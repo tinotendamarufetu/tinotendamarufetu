@@ -2,7 +2,7 @@
 to gain expertise in this exciting field. I believe in continuous learning and exploration, and I am here to share my projects, insights, and progress with the GitHub
 community.
 
-💞️While I have been pursuing data analytics on my own, I am always open to suggestions and resources that can further enhance my knowledge and skills. If you have any 
+💞️While I am pursuing data analytics on my own, I am always open to suggestions and resources that can further enhance my knowledge and skills. If you have any 
 recommendations for books, courses, or any other learning materials, please feel free to share them with me. I greatly appreciate any support and guidance that can 
 contribute to my growth as a data analyst.
 
