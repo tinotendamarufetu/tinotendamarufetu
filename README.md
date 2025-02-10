@@ -1,4 +1,4 @@
-👋Hello and welcome to my GitHub profile! My name is Tinotenda, and I am passionate about Data Analytics. As a self-taught individual, I have embarked on a personal journey
+👋Hello and welcome to my GitHub profile! My name is Tinotenda. I am passionate about Data Analytics and, I have embarked on a personal journey
 to gain expertise in this exciting field. I believe in continuous learning and exploration, and I am here to share my projects, insights, and progress with the GitHub
 community.
 
